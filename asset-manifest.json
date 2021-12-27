@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kimamovic21/react-contact-app/static/css/main.1824b995.css",
+    "main.js": "/kimamovic21/react-contact-app/static/js/main.7799b874.js",
+    "index.html": "/kimamovic21/react-contact-app/index.html",
+    "main.1824b995.css.map": "/kimamovic21/react-contact-app/static/css/main.1824b995.css.map",
+    "main.7799b874.js.map": "/kimamovic21/react-contact-app/static/js/main.7799b874.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1824b995.css",
+    "static/js/main.7799b874.js"
+  ]
+}
